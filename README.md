@@ -139,11 +139,35 @@ The evidence covers the commands executed, tool outputs, network discovery activ
 
 ---
 
-## 📄 Full Report
+## 📄 Full Practical Report
 
-The complete practical report is available in the **Report** directory.
+The complete Week 2 practical report is available below:
 
-**File:** `Week-2-Penetration-Testing-Report.pdf`
+[Download Week 2 Penetration Testing Report](Report/Week-2-Penetration-Testing-Report.pdf)
+
+## 📸 Practical Evidence
+
+Screenshots from the practical activities:
+
+### Footprinting and Reconnaissance
+
+![WHOIS](Screenshots/01-WHOIS.png)
+
+![WhatWeb](Screenshots/02-WhatWeb.png)
+
+![Nslookup](Screenshots/03-Nslookup.png)
+
+![Curl](Screenshots/04-Curl.png)
+
+![Wafw00f](Screenshots/05-Wafw00f.png)
+
+![DNSRecon](Screenshots/06-DNSRecon.png)
+
+### Network Scanning
+
+![Zenmap](Screenshots/07-Zenmap.png)
+
+![Network Topology](Screenshots/08-Topology.png)
 
 ---
 

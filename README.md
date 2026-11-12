@@ -143,7 +143,7 @@ The evidence covers the commands executed, tool outputs, network discovery activ
 
 The complete Week 2 practical report is available below:
 
-[Download Week 2 Penetration Testing Report](Report/Week-2-Penetration-Testing-Report.pdf)
+[Download Week 2 Penetration Testing Report](Report/PENETRATION-TESTING-REPORT.pdf)
 
 ## 📸 Practical Evidence
 

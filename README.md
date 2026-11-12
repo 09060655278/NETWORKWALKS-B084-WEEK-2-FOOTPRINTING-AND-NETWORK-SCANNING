@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Author Information
 
-- **Name:** Akanbi Temitope Benjamen (DON SMART)
+- **Name:** Akanbi Temitope Benjamen
 - **Programme:** Cybersecurity & Ethical Hacking
 - **Batch:** B084
 - **Training Institution:** Networkwalks
@@ -151,7 +151,11 @@ Screenshots from the practical activities:
 
 ### Footprinting and Reconnaissance
 
-![WHOIS](Screenshots/01-WHOIS.png)
+![WHOIS](Screenshots/01-WHOIS1.png)
+
+![WHOIS](Screenshots/01-WHOIS2.png)
+
+![WHOIS](Screenshots/01-WHOIS3.png)
 
 ![WhatWeb](Screenshots/02-WhatWeb.png)
 
